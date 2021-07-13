@@ -1,0 +1,12 @@
+{
+  "name": "darkmatter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "Rozeh <ai.rozeh@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
